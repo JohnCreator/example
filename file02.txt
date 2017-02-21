@@ -8,6 +8,4 @@ EE.
 
 XX.
 
-CC.
-
-VV.
+HH.
